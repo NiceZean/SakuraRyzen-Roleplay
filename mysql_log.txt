@@ -1,0 +1,3 @@
+[19:48:26] [ERROR] CMySQLConnection::Connect - (error #2005) Unknown MySQL server host 'maple.db.ashhost.in' (0)
+[19:53:18] [ERROR] CMySQLQuery::Execute[] - (error #2013) Lost connection to MySQL server during query
+[19:53:29] [ERROR] CMySQLQuery::Execute[OnCharacterCheck] - (error #2005) Unknown MySQL server host 'maple.db.ashhost.in' (0)
